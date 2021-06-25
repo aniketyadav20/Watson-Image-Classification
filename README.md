@@ -1,7 +1,7 @@
 
 [![LinkedIn][linkedin-shield]][linkedin-url]
 
-# Motion Detection
+# Image Classification
 
 <!-- TABLE OF CONTENTS -->
 <details open="open">
