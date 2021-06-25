@@ -22,6 +22,7 @@
       </ul>
     </li>
     <li><a href="#usage">Usage</a></li>
+    <li><a href="#output-overview">Output Overview</a></li>
     <li><a href="#contact">Contact</a></li>
   </ol>
 </details>
@@ -75,10 +76,17 @@ The Prototype is made using as follows:
 ## Usage
 * Drones: Drones equipped with image recognition capabilities can provide vision-based automatic monitoring, inspection, and control of the assets located in remote areas.
 * Manufacturing: Inspecting production lines, evaluating critical points on a regular basis within the premises. Monitoring the quality of the final products to reduce the defects. Assessing the condition of the workers can help manufacturing industries to have a complete control of different activities in the systems.
+
 * Autonomous Vehicles: Autonomous vehicles with image recognition can identify activities on the road and take necessary actions. Mini robots can help logistics industries to locate and transfer the objects from one place to another. It also maintains the database of the product movement history to prevent the product from being misplaced or stolen.
 * Military Surveillance: Detection of unusual activities in the border areas and automatic decision-making capabilities can help prevent infiltration and result in saving the lives of soldiers.
 * Forest Activities: Unmanned Aerial Vehicles can monitor the forest, predict changes that can result in forest fires, and prevent poaching. It can also provide a complete monitoring of the vast lands, which humans cannot access easily.
 
+
+## Output Overview
+<p align="center">
+<img src="https://cdn.discordapp.com/attachments/836691258599538749/858014733290438706/githhhhhhhhhhhh.png"
+ alt="Logo" width="1000" height="500">
+</p>
 
 Here you go! This was a simple way to classify images and happiness 😊.
 <p align="center">
